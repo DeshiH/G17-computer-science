@@ -75,9 +75,11 @@ body {
 }
 
 .covers-containers>img {
-    width: 30%;
+    width: 25%;
     margin-bottom: 20px;
     border-radius: 4px;
+    padding-left: 10px;
+    padding-right: 5px;
 }
 
 #categories-group {
